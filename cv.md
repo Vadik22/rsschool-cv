@@ -30,7 +30,6 @@ Programming languages:
 
 ### Soft Skills
 
-- Patient
 - Willingness to learn
 - Team-working
 - Open-mindedness
